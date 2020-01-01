@@ -46,7 +46,7 @@ main{
     display: block;
     width: 100%;
     height: 100%;
-    background-image: url("/img/haupes-co.jpg");
+    background-image: url(/img/haupes-co.jpg);
     background-size: cover;
 }
 /*nav*/
@@ -68,7 +68,7 @@ header li a{text-decoration: none; color: #fff; font-size: 1vw;}
 .wrapper .title{
     width: 100%;
     height: 550px;
-    background-image: url('https://github.com/2dayis/portfolio/blob/master/img/angelina-litvin.jpg');
+    background-image: url(/img/angelina-litvin.jpg);
     background-size: cover;
 }
 .wrapper .title .titlemsg{
@@ -99,7 +99,7 @@ header li a{text-decoration: none; color: #fff; font-size: 1vw;}
 .wrapper .works .worksbox{
     width: 100%;
     height: 500px;
-    background-image: url('https://github.com/2dayis/portfolio/blob/master/img/port1.png');
+    background-image: url(/img/port1.png);
     background-size: cover;
 }
 
